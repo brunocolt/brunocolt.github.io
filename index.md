@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Bem vindo ao seu Github Pages
 
-You can use the [editor on GitHub](https://github.com/brunocolt/brunocolt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Você pode editar sua págiana em [editor on GitHub](https://github.com/brunocolt/brunocolt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
